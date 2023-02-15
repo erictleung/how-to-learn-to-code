@@ -1,0 +1,28 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "How to Code and Get a Developer Job"
+  author: "Quincy Larson"
+  date: "2023-01-06"
+  chapters:
+    - index.qmd
+    - preface.qmd
+    - summary.qmd
+    # - 1_build_skills.qmd
+    # - 2_build_network.qmd
+    # - 3_build_reputation.qmd
+    # - 4_paid_to_code.qmd
+    # - 5_first_dev_job.qmd
+    # - epilogue.qmd
+  reader-mode: true
+  page-navigation: true
+
+format:
+  html:
+    theme: cosmo
+  # pdf:
+    # documentclass: scrreport
+  epub:
+    cover-image: images/book_cover.png
