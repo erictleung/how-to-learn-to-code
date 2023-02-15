@@ -1,0 +1,93 @@
+# Preface {.unnumbered}
+
+This book is for anyone who is considering a career in software development.
+
+If you're looking for a career that's flexible, high-paying, and involves a lot of creative problem solving, software development may be for you.
+
+Of course, each of us approaches our own coding journey with certain resources: **time**, **money**, and **opportunity**.
+
+You may be older, and may have kids or elderly relatives you're taking care of. So you may have less **time**.
+
+You may be younger, and may have had less time to build up any savings, or acquire skills that boost your income. So you may have less **money**.
+
+And you may live far away from the major tech cities like San Francisco, Berlin, Tokyo, or Bengaluru.
+
+You may live with disabilities, physical or mental. Agism, racism, and sexism are real. Immigration status can complicate the job search. So can a criminal record.
+
+So you may have less **opportunity**.
+
+Learning to code and getting a developer job is going to be harder for some people that it will be for others. Everyone approaches this challenge from their own starting point, with whatever resources they happen to have on hand.
+
+But wherever you may be starting out from – in terms of time, money, and opportunity – I'll do my best to give you actionable advice.
+
+In other words: you are in the right place.
+
+## A Quick Note on Terminology
+
+Whenever I use new terms, I'll do my best to define them.
+
+But there are a few terms I'll be saying all the time.
+
+I'll use the words "programming" and "coding" interchangeably.
+
+I'll use the word "app" as it was intended – as shorthand for any sort of application, regardless of whether it runs on a phone, laptop, game console, or refrigerator. (Sorry, Steve Jobs. iPhone does not have a monopoly on the word app.)
+
+I will also use the words "software engineer" and "software developer" interchangeably.
+
+You may encounter people in tech who take issue with this. As though software engineering is some fancy-pants field with a multi-century legacy, like mechanical engineering or civil engineering. And maybe that will be true for your grandkids. But we are still very much in the early days of software development as a field.
+
+I'll just drop this quote here for you:
+
+> "If builders built buildings the way programmers wrote programs, then the first woodpecker that came along would destroy civilization." – Gerald Weinberg, Programmer, Author, and University Professor
+
+## Can Anyone Learn to Code?
+
+Yes. I believe that any sufficiently motivated person can learn to code. At the end of the day, learning to code is a motivational challenge – not a question of aptitude.
+
+On the savannas of Africa – where early humans lived for thousands of years before spreading to Europe, Asia, and the Americas – were there computers?
+
+Programming skills were never something that was selected for over the millennia. Computers as we know them (desktops, laptops, smartphones) emerged in the 80s, 90s, and 00s.
+
+Yes – I do believe that aptitude and interest play a part. But at the end of the day, anyone who wants to become a professional developer will need to put in time at the keyboard.
+
+A vast majority of people who try to learn to code will get frustrated and give up.
+
+I sure did. I got frustrated and gave up. Several times.
+
+But like other people who eventually succeeded, I kept coming back after a few days, and tried again.
+
+I say all this because I want to acknowledge: learning to code and getting a developer job is hard. And it's even harder for some people than others, due to circumstance.
+
+I'm not going to pretend to have faced true adversity in learning to code. Yes, I was in my 30s, and I had no formal background in programming or computers science. But consider this:
+
+I grew up middle class in the United States – a 4th-generation American from an English-speaking home. I went to university. My father went to university. And his father went to university. (His parents before him were farmers from Sweden.)
+
+I benefitted from a sort of intergenerational privilege. A momentum that some families are able to pick up over time when they are not torn apart by war, famine, or slavery.
+
+So that is my giant caveat to you: I am not some motivational figure to pump you up to overcome adversity.
+
+There are a ton of people in the developer community who have overcome real adversity. And I'll reference those people later in the book if you want to seek out their teachings.
+
+I'm not seeking to elevate the field of software development. I'm not going to paint pictures of science fiction utopias that can come about if you learn to code.
+
+Instead, I'm just going to give you practical tips for how you can acquire these skills. And how you can go get a good job, so you can provide for your family.
+
+There's nothing wrong with learning to code because you want a good, stable job.
+
+There's nothing wrong with learning to code so you can start a business.
+
+You may encounter people who say that you must be so passionate about coding that you dream about it. That you clock out of your full-time job, then spend all weekend contributing to open source projects.
+
+I do know people who are that passionate about coding. But I also know plenty of people who, after finishing a hard week's work, just want to go spend time in nature, or play board games with friends.
+
+People generally enjoy doing things they're good at doing. And you can develop a reasonable level of passion for coding just by getting better at coding.
+
+So in short: who is this book for? Anyone who wants to get better at coding, and get a job as a developer. That's it.
+
+You don't need to be a self-proclaimed "geek", an introvert, or an ideologically-driven activist. Or any of those stereotypes.
+
+It's fine if you are. But you don't need to be.
+
+So if that's you – if you're serious about learning to code well enough to get paid to code – this book is for you.
+
+And you should start by reading this quick summary of the book. And then reading the rest of it.

@@ -1,0 +1,67 @@
+# 500 Word Executive Summary {.unnumbered}
+
+Learning to code is hard. Getting a job as a software developer is even harder. But for many people, it's worth the effort.
+
+Coding is a high-paying, intellectually challenging, creatively rewarding field. There is a clear career progression ahead of you: senior developer, tech lead, engineering manager, CTO, and perhaps even CEO.
+
+You can find work in just about any industry. About two thirds of developer jobs are outside of what we traditionally call "tech" – in agriculture, manufacturing, government, and service industries like banking and healthcare.
+
+If you're worried your job might be automated before you reach retirement, consider this: coding is the act of automating things. Thus it is by definition the last career that will be completely automated.
+
+Have I sold you on coding as a good career for you? Then here's what you need to do to break into the field.
+
+## Build your skills.
+
+You need to learn:
+
+- Front End Development: HTML, CSS, JavaScript
+- Back End Development: SQL, Git, Linux, and Webservers
+- Scientific Computing: Python and its many libraries
+
+These are all mature, 20+ year old technologies. Whichever company you work for, you will almost certainly use most of these tools.
+
+The best way to learn these tools is to build projects. Try to code at least some every day. If you do the freeCodeCamp curriculum from top to bottom, you'll learn all of this and build dozens of projects.
+
+Some of the certifications in the freeCodeCamp core curriculum.
+
+## Build your network.
+
+So much of getting a job is who you know.
+
+It's OK to be an introvert, but you do need to push your boundaries.
+
+Create GitHub, Twitter, LinkedIn, and Discord accounts.
+
+Go to technologies meetups and conferences. Travel if you have to. (Most of your "learn to code" budget should go to travel and event tickets – not a book and courses.)
+
+Greet people who are standing by themselves. Let others do most of the talking, and really listen. Remember people's names.
+
+Add people on LinkedIn, follow them on Twitter, and go to after-parties.
+
+## Build your reputation.
+
+Share short video demos of your projects.
+
+Keep applying to speak at bigger and bigger conferences.
+
+Hang out at hackerspaces and help people who are even newer to coding than you.
+
+Contribute to open source. The work is similar to professional software development.
+
+**Build all 3 of these at the same time.** Don't let yourself procrastinate the scariest parts.
+
+Instead of applying for jobs through the "front door", use your network to land job interviews through the "side door". Recruiters can help, too.
+
+Keep interviewing until you start getting job offers. You don't need to accept the first offer you get, though. Be patient.
+
+Your first developer job will be the hardest. Try to stay there for at least 2 years, and essentially get paid to learn.
+
+The real learning begins once you're on-the-job, working alongside a team, and with large legacy codebases.
+
+Most importantly, sleep and exercise.
+
+Any sufficiently-motivated person can learn to code well enough to get a job as a developer.
+
+It's just a question of how badly you want it, and how persistent you can be in the job search.
+
+Remember: you can do this.

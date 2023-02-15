@@ -1,0 +1,45 @@
+# Introduction {.unnumbered}
+
+If you want to learn to code and get a job as a developer, you're in the right place. This book will show you how.
+
+And yes this is the full book – for free – right here on this webpage.
+
+A few years back, one of the Big 5 book publishers from New York City reached out to me about a book deal. I met with them, but didn't have time to write a book.
+
+Well, I finally had time. And I decided to just publish this book for free, right here on freeCodeCamp.
+
+Information wants to be free, right? 🙂
+
+It may take you a few hours to read all this. But this is it. My insights into learning to code and getting a developer job.
+
+I learned all of this while:
+
+- learning to code in my 30s
+- then working as a software engineer
+- then running freeCodeCamp.org for the past 8 years.
+
+Today, more than a million people visit this website each day to learn about math, programming, and computer science.
+
+I was an English teacher who had never programmed before. And I was able to learn enough coding to get my first software development job in just one year.
+
+All without spending any money on books or courses.
+
+(I did spend money to travel to nearby cities and participate in tech events. And as you'll see later in the book, this was money well spent.)
+
+After working as a software engineer for a few years, I felt ready. I wanted to teach other people how to make this career transition, too.
+
+I built several technology education tools that nobody was interested in using. But then one weekend, I built freeCodeCamp.org. A vibrant community quickly gathered around it.
+
+Along the way, we all helped each other. And today, people all around the world have used freeCodeCamp to prepare for their first job in tech.
+
+You may be thinking: I don't know if I have time to read this entire book.
+
+No worries. You can bookmark it. You can come back to it and read it across as many sittings as you need to.
+
+And you can share it on social media. Sharing: "check out this book I'm reading" and linking to it is a surprisingly effective way to convince yourself to finish reading a book.
+
+I say this because I'm not trying to sell you this book. You already "bought" this book when you opened this webpage. Now my goal is to reassure you that this book will be worth investing your scarce time in finish. 😉
+
+I promise to be respectful of your time. There's no hype or fluff here – just blunt, actionable tips.
+
+I'm going to jam as much insight as I can into every chapter of this book.
